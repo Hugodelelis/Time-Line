@@ -64,7 +64,7 @@ div ul li {
   content: "";
   width: 1.5rem;
   height: 1.5rem;
-  box-shadow: 0.5rem 0.5rem 1rem;
+  box-shadow: 0.5rem 0.5rem 2rem;
   border: 0.1rem solid black;
   border-radius: 50%;
   background-color: white;
